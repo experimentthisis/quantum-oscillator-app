@@ -36,7 +36,7 @@ st.subheader(" Explanation")
 st.write(f"""
 For **n = {n}**, there are **{n + 1} peaks** in the probability density.  
 Higher energy levels have more oscillations, representing more possible locations for the particle.  
-This reflects how quantum energy levels increase discretely — not continuously.
+This reflects how quantum energy levels increase discretely but not continuously.
 """)
 
 st.caption("Created by N.I • Electrical Engineering + Quantum Visualization Project")
