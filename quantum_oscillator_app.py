@@ -32,7 +32,7 @@ st.pyplot(fig)
 
 # --- Add explanation section ---
 st.markdown("---")
-st.subheader("🧠 Explanation")
+st.subheader(" Explanation")
 st.write(f"""
 For **n = {n}**, there are **{n + 1} peaks** in the probability density.  
 Higher energy levels have more oscillations, representing more possible locations for the particle.  
